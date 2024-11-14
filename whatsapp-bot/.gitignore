@@ -1,0 +1,5 @@
+node_modules/
+.env
+.session/
+.wwebjs_cache/
+handlers/dialogo.json

@@ -1,0 +1,26 @@
+{
+    "welcome": "insira a saudacao",
+    
+    "1": {
+      "menu": "mensagem a retornar",
+      "b": "retorno da opcao b",
+      "c": "retorno da opcao c"
+    },
+
+    "2": {
+      "menu": "mensagem a retornar",
+      "b": "retorno da opcao b",
+      "c": "retorno da opcao c"
+    },
+
+    "3": {
+      "menu": "mensagem a retornar",
+      "b": "retorno da opcao b",
+      "c": "retorno da opcao c"
+    },
+  
+    "4": {
+      "prompt": "outras dúvidas"
+    }
+  }
+  
