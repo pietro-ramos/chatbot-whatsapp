@@ -23,7 +23,7 @@ client.on('message', async msg => {
         console.log(`[User ID: ${msg.from}] Resposta enviada: "${response}"`);
 
         await msg.getChat().then(chat => chat.sendStateTyping());
-        await delay(2000); // Simula digitação
+        await delay(800); // Simula digitação
         client.sendMessage(msg.from, response);
     }
 });
